@@ -17,7 +17,7 @@
 ![WhoTaooo GitHub stats](https://github-readme-stats.vercel.app/api?username=WhoTaooo&show_icons=true&theme=dracula) 
 <img src="img/hutao-genshin%20(1).gif" 
      alt="WhoTaooo" 
-     style="position: relative; top: -210px; float: right; height: 200px; margin-right: -40px;">
+     style="position: relative; top: -210px; float: right; height: 200px; margin-right: -60px;">
 
 
 
