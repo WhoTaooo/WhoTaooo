@@ -1,4 +1,23 @@
-## Hi there 👋
+## Oya Oya Oya? I'am WhoTaooo
+
+![WhoTaoo](img/github-header-banner.png)
+
+### About me:
+
+
+##### Skills
+
+<img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white"/>
+<img src="{BadgeURLHere}"/>
+<img src="{BadgeURLHere}"/>
+<img src="{BadgeURLHere}"/>
+<img src="{BadgeURLHere}"/>
+<img src="{BadgeURLHere}"/>
+
+
+
 
 <!--
 **WhoTaooo/WhoTaooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
